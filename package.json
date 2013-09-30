@@ -1,0 +1,21 @@
+{
+  "name": "ng-Bootstrap-JS"
+  , "description": "Boilerplate for AngularJS and Bootstrap"
+  , "version": "0.0.1"
+  , "private": true
+  , "author": "Brian Frichette"
+  , "dependencies": {}
+
+  , "devDependencies": {
+      "grunt": "0.4.x"
+    , "connect": "*"
+    , "grunt-contrib-less": ">=0.6"
+    , "grunt-contrib-watch": ">=0.4"
+  }
+  , "repository": {
+    "type": "git"
+    , "url":"git://github.com/brian-frichette/ngDemo.git"
+  }
+
+  , "licenses": [{"type": "MIT", "url": "http://opensource.org/licenses/MIT"}]
+}
